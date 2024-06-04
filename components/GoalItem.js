@@ -24,12 +24,11 @@ export default GoalItem;
 const styles = StyleSheet.create({
   goalItem: {
     margin: 8,
-
     borderRadius: 6,
-    backgroundColor: '#f08080',
+    backgroundColor: '#5e0acc',
   },
   goalText: {
-    color: 'black',
+    color: '#fff',
     padding: 8,
   },
   pressedItem: {
